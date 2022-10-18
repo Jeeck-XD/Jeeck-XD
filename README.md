@@ -1,5 +1,4 @@
 
-### Hi 
 
 <p align="center">
 <i> <b> Wellcome To My GitHub<i>
@@ -26,7 +25,10 @@
 <i> <b> XTC-CODE<i>
 <i> <b> GARUDA CODE<i>
 </p
-
+## HALLO GUYS
+<p align="center">
+<i> <b> Jangan Lupa Makan Guys Hehehe Pantengin Terus Github Jeeck X Nano Dengan Follow Dan Kasi Bintang Nya Hehehe Makasi <3 <i>
+</p
 
 
 
