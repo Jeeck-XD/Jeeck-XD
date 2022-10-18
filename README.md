@@ -25,9 +25,12 @@
 <i> <b> XTC-CODE<i>
 <i> <b> GARUDA CODE<i>
 </p
+</p
+  
+
 ## HALLO GUYS
 <p align="center">
-<i> <b> Jangan Lupa Makan Guys Hehehe Pantengin Terus Github Jeeck X Nano Dengan Follow Dan Kasi Bintang Nya Hehehe Makasi <3 <i>
+<i> <b> Jangan Lupa Makan Guys Hehehe Pantengin Terus Github Jeeck X Nano Dengan Follow Dan Kasi Bintang Nya Maaf Ya Guys Belum Bisa Ngasih Yang Terbaik Buat Kalian Semua Maafinya Makasi <3 <i>
 </p
 
 
